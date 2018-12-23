@@ -318,7 +318,6 @@ addItem(obj){
       }
 
       editItem(index,item,object){
-        console.log('zeft',index,item,object)
         let newIndex=index 
         let newItem=item  
         let obj=object;  
