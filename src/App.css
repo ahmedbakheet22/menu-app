@@ -1,0 +1,16 @@
+body > .grid {
+  height: 100%;
+}
+
+.loginContainer {
+  max-width: 450px;
+}
+
+.App{
+  margin-top: 2em
+}
+
+.catBtn{
+  margin-bottom: 0.2em
+
+}
